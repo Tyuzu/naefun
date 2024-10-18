@@ -11,7 +11,7 @@ import (
 
 type Event struct {
 	Id         string `json:"id"`
-	Title      string `json:"username"`
+	Title      string `json:"title"`
 	Descrition string `json:"password"`
 }
 
